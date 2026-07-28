@@ -5,7 +5,7 @@ Hi 👋, I'm Subodh<br>A passionate fullstack developer from Nepal<br>Currently 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devsubodh/)
 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/subodh_277353)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/subodh_277353)
 
 [![Protfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=%23FF7139)](https://subodh-portfolio-plum.vercel.app/)
 
