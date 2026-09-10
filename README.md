@@ -11,7 +11,7 @@ Hi 👋, I'm Subodh<br>A passionate fullstack developer from Nepal<br>Currently 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subodhloves106@gmail.com) 
 
-[![LeetCode](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/subodhloves106/)
+[![LeetCode](https://img.shields.io/badge/leetcode-%230077B5.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/subodhloves106/)
 
 
 # 💻 Tech Stack:
